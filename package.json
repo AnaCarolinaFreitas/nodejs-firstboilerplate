@@ -22,10 +22,5 @@
   "bugs": {
     "url": "https://github.com/AnaCarolinaFreitas/nodejs-firstboilerplate/issues"
   },
-  "homepage": "https://github.com/AnaCarolinaFreitas/nodejs-firstboilerplate#readme",
-  "dependencies": {
-    "dotenv": "^16.4.5",
-    "express": "^4.21.1",
-    "nodemon": "^3.1.7"
-  }
+  "homepage": "https://github.com/AnaCarolinaFreitas/nodejs-firstboilerplate#readme"
 }
