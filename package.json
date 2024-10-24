@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-firstboilerplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em nodejs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaCarolinaFreitas/nodejs-firstboilerplate.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "dev",
+    "SENAI",
+    "Nodejs",
+    "back-end"
+  ],
+  "author": "Ana Carolina Freitas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnaCarolinaFreitas/nodejs-firstboilerplate/issues"
+  },
+  "homepage": "https://github.com/AnaCarolinaFreitas/nodejs-firstboilerplate#readme"
+}
